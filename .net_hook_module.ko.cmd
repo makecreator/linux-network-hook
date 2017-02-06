@@ -1,0 +1,1 @@
+cmd_/home/tong/net_module/net_hook_module.ko := /home/tong/android-toolchain/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -r  -T /home/tong/GT-I9070_GB_Opensource/GT-I9070_Kernel/scripts/module-common.lds --build-id -o /home/tong/net_module/net_hook_module.ko /home/tong/net_module/net_hook_module.o /home/tong/net_module/net_hook_module.mod.o
